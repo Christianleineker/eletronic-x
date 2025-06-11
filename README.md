@@ -22,3 +22,19 @@ Este projeto é um e-commerce simples desenvolvido com **React**, utilizando **F
 git clone https://github.com/seu-usuario/seu-repositorio.git
 cd seu-repositorio
 
+Bibliotecas necessárias
+
+npm install react-router-dom
+npm install firebase
+npm install tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+
+Rodando o Projeto
+
+Após instalar todas as dependências, execute:
+
+npm run dev
+
+O projeto estará disponível em:
+
+http://localhost:5173
