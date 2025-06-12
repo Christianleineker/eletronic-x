@@ -6,6 +6,13 @@
   align-items: center;
   justify-content: center;
   color: #ffffff;
+
+  background-image: url('/images/background.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-color: rgba(0, 0, 0, 0.6);
+  background-blend-mode: darken;
 }
 
 .register-box {
