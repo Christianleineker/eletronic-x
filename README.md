@@ -59,3 +59,11 @@ npm start
 - Remoção de itens do carrinho  
 - Layouts com e sem cabeçalho/rodapé conforme rota  
 - Notificação de quantidade de itens no carrinho (Header dinâmico)
+
+
+---
+
+**Autor**  
+Desenvolvido por:  
+Christianleineker, Bob-Cleiton, flpimentainf, FranciscojZakaluk,  
+Guizinhow, KauaLizarte, Vicfer456, Machado222
