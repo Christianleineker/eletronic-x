@@ -66,4 +66,4 @@ npm start
 **Autor**  
 Desenvolvido por:  
 Christianleineker, Bob-Cleiton, flpimentainf, FranciscojZakaluk,  
-Guizinhow, KauaLizarte, Vicfer456, Machado222
+Guizinhow, KauaLizarte, Machado222
